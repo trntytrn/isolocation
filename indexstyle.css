@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  background-color: rgb(37, 80, 94);
+  text-align: center;
+  color: #CFE0C3;
+  font-family: 'Mukta', sans-serif;
+}
+
+  /*styling for the top bar*/
+.topnav {
+  overflow: hidden;
+  background-color: #1F363D;
+}
+
+/*styling for the top bar*/
+.topnav a {
+  float: left;
+  padding: 1px 1px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.logo {
+  width: 300px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.enter {
+  text-align: center;
+}
+
+.input {
+  padding-top: 20px;
+}
+
+.disclaimer {
+  font-size: 13px;
+}
+
+.submit {
+  padding-top: 25px;
+  width: 100px;
+}
+
+.text {
+  padding-top: 70px;
+}
+
+.headerind {
+  width: 100%;
+  height: auto;
+  display:block;
+}

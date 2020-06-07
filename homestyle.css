@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  background-color: #70A9A1;
+  text-align: center;
+  color: #CFE0C3;
+  font-family: 'DM Serif Text', serif;
+}
+
+  /*styling for the top bar*/
+.topnav {
+  overflow: hidden;
+  background-color: #1F363D;
+}
+
+/*styling for the top bar*/
+.topnav a {
+  float: center;
+  padding: 0.5px 0px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.logo {
+  width: 300px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.welcome {
+  padding-top: 0px;
+  text-align: center;
+}
+
+.welcomesign {
+  height: auto;
+  width: 50%;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  padding-bottom: 0px;
+}
+
+.head {
+  padding-top: 0px;
+}
+
+.submit {
+  width: 25%;
+  height: auto;
+  float: left;
+  padding-left: 150px;
+
+}
+
+.submit1 {
+  width: 25%;
+  height: auto;
+  padding-left: 7px;
+}
+
+.miss {
+  width: 60%;
+  height: auto;
+}

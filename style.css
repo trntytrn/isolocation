@@ -1,0 +1,21 @@
+  /*styling for the top bar*/
+  .topnav {
+    overflow: hidden;
+    background-color: #1F363D;
+  }
+
+  /*styling for the top bar*/
+  .topnav a {
+    float: left;
+    padding: 1px 1px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .logo {
+  width: 300px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
